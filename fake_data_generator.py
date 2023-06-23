@@ -13,7 +13,6 @@
                             DEVELOPED BY DRAC00. VERSION:1.0
 
 This script generates fake data including first name, last name, date of birth, gender, and username.
-Usage: "chmod +x fake_data_generator.py"
 
 """
 
