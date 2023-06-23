@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+art = '''
 """
 .%%%%%%...%%%%...%%..%%..%%%%%%...........%%%%...%%..%%..%%%%%%...%%%%...%%...%%...%%%%...%%%%%%..%%%%%%...%%%%...%%..%%.
 .%%......%%..%%..%%.%%...%%..............%%..%%..%%..%%....%%....%%..%%..%%%.%%%..%%..%%....%%......%%....%%..%%..%%%.%%.
@@ -15,6 +16,8 @@
 This script generates fake data including first name, last name, date of birth, gender, and username.
 
 """
+'''
+print(art)
 
 import random
 from faker import Faker
