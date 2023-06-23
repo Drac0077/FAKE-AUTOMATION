@@ -1,4 +1,5 @@
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://tenor.com/view/nerowo-fsociety-gif-25016248" height="100" /></a>
+![fsociety](https://media.tenor.com/3ItiA2urMygAAAAC/nerowo-fsociety.gif)
+
 
 
 # FAKE-AUTOMATION
