@@ -2,7 +2,7 @@
 
 
 
-# FAKE-AUTOMATION
+# Fake-Automation
 A python tool to generate a list of fake data to create google or any other Domain accounts. The list includes A first name and a surname, Date of birth and a plausible Username, Tool can be used in social engineering and other various things.
 
 INSTALLATION:
